@@ -11,3 +11,7 @@
 Los datos numéricos del informe se atribuyen a la sesión original de Colab, no a una reproducción nueva.
 
 **IA responsable:** mantener público solo contenido sin matrículas ni información personal.
+
+
+## Actualización — notebook cargado
+Notebook sanitizado publicado en [`fuentes/Actividad5_notebook_historico_sanitizado.ipynb`](../fuentes/Actividad5_notebook_historico_sanitizado.ipynb), verificado con 40 celdas (31 código), cero salidas y cero contadores de ejecución. Pendientes: gráficos originales y evidencia visual MLflow, reproducción independiente. La presencia del notebook no acredita ejecución nueva.
