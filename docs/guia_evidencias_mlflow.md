@@ -1,9 +1,13 @@
-# Evidencias MLflow — verificación y publicación pendiente
+# Evidencia de MLflow
 
-En la sesión original se observaron ocho ejecuciones MLflow, SQLite, tablas comparativas, matrices de confusión y respaldo local/Drive. **No se han incorporado los artefactos originales aquí.**
+Los experimentos reales se registraron durante la ejecución en Colab y la base SQLite original fue recuperada desde el respaldo.
 
-Para cerrar este criterio se deben exportar desde Colab los CSV y gráficos, verificar que no contengan imágenes, nombres, rutas confidenciales ni identificadores de matrículas, agregar capturas de la pantalla de MLflow sin información sensible y comprobar por archivo sus métricas con el informe técnico. No se generarán imágenes recreadas para simular capturas.
+Consultar:
+- [Auditoría verificable de ocho ejecuciones](../evidencias/mlflow/auditoria_sqlite_verificada.md)
+- [Estados de ejecuciones](../evidencias/mlflow/estados.csv)
+- [Parámetros de GridSearchCV](../evidencias/comparacion_gridsearch.csv)
+- [Métricas de la evaluación final](../evidencias/comparacion_final_test.csv)
 
-El ZIP de 18.03 MB respaldado en Drive contiene archivos potencialmente sensibles y rutas temporales; no debe publicarse íntegro sin inspección. La verificación de integridad ZIP no acredita portabilidad del modelo ni seguridad de datos.
+La interfaz web no se pudo mostrar por las protecciones del entorno. **Ninguna tabla se presenta como captura de pantalla**. El respaldo privado SQLite y modelos serializados no se exponen.
 
-**IA responsable:** las métricas son experimentales de clasificación de caracteres, no autorizaciones de acceso ni auditoría de cumplimiento normativo.
+**IA responsable:** resultado académico limitado a clasificación de caracteres; para cualquier acceso físico se necesita control de seguridad independiente y supervisión humana.
