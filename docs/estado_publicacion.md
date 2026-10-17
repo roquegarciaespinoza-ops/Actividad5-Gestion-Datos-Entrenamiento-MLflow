@@ -2,7 +2,7 @@
 
 **Publicados:** README, documentación técnica, rúbrica, decisiones, MLOps, controles éticos, dependencias, preparación y entrenamiento en Python, controles de prueba básicos.
 
-**Sin publicar todavía:** notebook histórico integral sanitizado (disponible como archivo de entrega aparte), CSV y matrices originales, capturas verificables de MLflow, manifiestos originales y dataset derivado. Los dos últimos requieren una evaluación de licencias y privacidad previa a cualquier difusión.
+**Publicación adicional:** CSV agregados de prueba y GridSearchCV, comparación estadística y manifiesto sanitizado publicados y contrastados contra ZIP de Colab. **Sin publicar todavía:** notebook sanitizado (disponible como archivo aparte), matrices PNG originales, informes por clase completos, capturas de MLflow y dataset derivado. Los dos últimos requieren una evaluación de licencias y privacidad previa a cualquier difusión.
 
 **Sin validar:** ejecución de extremo a extremo desde el repositorio con datos oficiales y restauración portable del respaldo MLflow.
 
