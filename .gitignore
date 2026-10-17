@@ -1,0 +1,16 @@
+# Datos descargados/derivados y datos personales
+*.zip
+*.npz
+*.db
+*.sqlite
+*.sqlite3
+mlruns/
+mlflow/
+datos/datos_ini/
+datos/datos_limp/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pkl
+*.pickle
+*.skops
