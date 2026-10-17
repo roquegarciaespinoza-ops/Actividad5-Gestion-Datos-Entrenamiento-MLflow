@@ -15,7 +15,7 @@ La división experimental usó identificadores de matrículas parcialmente ocult
 | Métrica | LinearSVC | Random Forest |
 |---|---:|---:|
 | Accuracy | 0.920889 | 0.898675 |
-| Precision macro | 0.923368 | 0.882575 |
+| Precision macro | 0.892368 | 0.882575 |
 | Recall macro | 0.874187 | 0.831095 |
 | F1 macro | 0.881741 | 0.849087 |
 | F1 macro CV | 0.876405 | 0.812594 |
