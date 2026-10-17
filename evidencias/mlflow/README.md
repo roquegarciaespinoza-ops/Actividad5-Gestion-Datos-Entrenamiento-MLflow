@@ -7,3 +7,7 @@ Se inspeccionó la base SQLite incluida en el ZIP de Colab y se consultó la tab
 Para reproducir el panel y sus artefactos se requiere restaurar la base SQLite y reubicar rutas originales; esa restauración aún no ha sido comprobada. No publicar `model.pkl`, otros modelos serializados, imágenes originales ni información identificable.
 
 **IA responsable:** documentar incluso la ejecución fallida y evitar presentar ocho entrenamientos exitosos cuando uno falló al serializar.
+
+
+### Auditoría detallada
+[Consultar la auditoría recuperada desde SQLite](auditoria_sqlite_verificada.md): 8 ejecuciones, 7 terminadas y 1 fallida, mejores parámetros, métricas de prueba y limitaciones. Se elaboró directamente de la base original, sin simular capturas de pantalla.
