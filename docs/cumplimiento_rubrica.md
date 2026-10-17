@@ -10,3 +10,6 @@ Los cuatro criterios valen 25 puntos cada uno. Esta matriz documenta **cobertura
 | Análisis e interpretación (25) | [Informe §4-6](reporte_tecnico.md), McNemar exploratorio, errores por clase y [MLOps](mlops_deuda_tecnica.md) | Matriz de confusión original pendiente; profundizar inferencia agrupada |
 
 **IA responsable transversal:** [controles IER-IA](IA_RESPONSABLE.md). No publicar material identificable en ningún criterio.
+
+## Notebook académico
+Se incorporó el [notebook sanitizado](../fuentes/Actividad5_notebook_historico_sanitizado.ipynb), con 31 celdas de código y documentación, sin salidas de ejecución. Los resultados observados constan por separado en los archivos agregados de `evidencias/`. Aún faltan evidencias visuales originales de MLflow y prueba integral de reproducción.
