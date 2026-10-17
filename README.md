@@ -10,7 +10,7 @@ Experimento académico con **clasificación de caracteres aislados** de matrícu
 | Métrica sobre 2,566 caracteres reservados | LinearSVC | Random Forest |
 |---|---:|---:|
 | Accuracy | **92.09 %** | 89.87 % |
-| Precision macro | **92.34 %** | 88.26 % |
+| Precision macro | **89.24 %** | 88.26 % |
 | Recall macro | **87.42 %** | 83.11 % |
 | F1 macro | **88.17 %** | 84.91 % |
 | F1 macro CV (3 folds) | **87.64 %** | 81.26 % |
