@@ -1,0 +1,9 @@
+Ejecución,Estado
+LinearSVC_Base,FINISHED
+RandomForest_Base,FAILED
+RandomForest_Base_Recuperado,FINISHED
+LinearSVC_GridSearchCV,FINISHED
+RandomForest_GridSearchCV,FINISHED
+LinearSVC_Evaluacion_Final,FINISHED
+RandomForest_Evaluacion_Final,FINISHED
+Comparacion_Estadistica_Final,FINISHED
