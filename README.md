@@ -47,3 +47,7 @@ Se limita el uso a investigación, se preservan originales, se documentan licenc
 - [Informes por clase y otras evidencias](evidencias/README.md)
 
 Las imágenes son evidencia de evaluación histórica, **no capturas de MLflow**. La reproducción completa y las capturas de su interfaz continúan pendientes.
+
+
+## Evidencia MLflow recuperada sin servidor
+[Auditoría verificable de ocho ejecuciones a partir de SQLite](evidencias/mlflow/auditoria_sqlite_verificada.md), con parámetros, métricas, estados y metodología de inspección. Es evidencia directa de base de datos, **no** una captura del panel; la restricción de acceso desde Colab impidió capturar la interfaz. IA responsable: no publicar DB ni modelos serializados.
