@@ -15,3 +15,9 @@ Los datos numéricos del informe se atribuyen a la sesión original de Colab, no
 
 ## Actualización — notebook cargado
 Notebook sanitizado publicado en [`fuentes/Actividad5_notebook_historico_sanitizado.ipynb`](../fuentes/Actividad5_notebook_historico_sanitizado.ipynb), verificado con 40 celdas (31 código), cero salidas y cero contadores de ejecución. Pendientes: gráficos originales y evidencia visual MLflow, reproducción independiente. La presencia del notebook no acredita ejecución nueva.
+
+
+## Cierre de verificaciones automatizadas
+Se agregó el flujo [Validación básica](https://github.com/roquegarciaespinoza-ops/Actividad5-Gestion-Datos-Entrenamiento-MLflow/actions/workflows/validacion.yml) que compila el código y ejecuta pruebas sin dataset personal. La primera ejecución terminó correctamente; la ejecución tras añadir la prueba de integración sintética debe consultarse en Actions. **Estas pruebas no sustituyen la reproducción integral con UC3M-LP.**
+
+Se extrajeron los PNG originales de matrices de confusión y CSV de informes por clase del respaldo de Colab para resguardo fuera de GitHub. La conexión de publicación actual no admite transferir esos binarios originales, por lo que **continúan pendientes de publicación en el repositorio**. Tampoco se dispone de capturas genuinas del panel web de MLflow.
