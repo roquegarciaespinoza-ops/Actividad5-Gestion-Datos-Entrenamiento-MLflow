@@ -39,3 +39,11 @@ Se limita el uso a investigación, se preservan originales, se documentan licenc
 
 ## Notebook
 [Consultar el notebook sanitizado de Colab](fuentes/Actividad5_notebook_historico_sanitizado.ipynb). Consta de 40 celdas y no contiene salidas de ejecución; los CSV publicados documentan los resultados históricos. **IA responsable:** las salidas y matrículas identificables no se difunden.
+
+
+## Evidencias de evaluación disponibles
+- [Matriz de confusión LinearSVC](evidencias/matriz_confusion_linearsvc.png)
+- [Matriz de confusión Random Forest](evidencias/matriz_confusion_randomforest.png)
+- [Informes por clase y otras evidencias](evidencias/README.md)
+
+Las imágenes son evidencia de evaluación histórica, **no capturas de MLflow**. La reproducción completa y las capturas de su interfaz continúan pendientes.
