@@ -1,0 +1,18 @@
+{
+  "version": "v1.0.0",
+  "dataset_fuente": "UC3M-LP",
+  "zenodo_record_id": "17152029",
+  "semilla": 42,
+  "dimensiones_imagen": [32, 32],
+  "normalizacion": "Escala de grises, valores 0-1",
+  "clases": ["0","1","2","3","4","5","6","7","8","9","A","B","C","D","F","G","H","J","K","L","M","N","P","R","S","T","V","W","X","Y","Z"],
+  "clases_excluidas": ["I","U","O"],
+  "registros_train": 10178,
+  "registros_test": 2566,
+  "hashes_sha256": {
+    "train": "373d9532ffbd2eaf6e4089b6b21e013cf05472cafcbb70575e99f17a937689b6",
+    "test": "e811e3acb0267ab8a482add649ef697cec13f247cfc2387f4c6af9837a1cae42"
+  },
+  "advertencia": "Dataset derivado para uso experimental. Los identificadores de grupo proceden de matriculas parcialmente anonimizadas. No se garantiza independencia real entre vehiculos.",
+  "uso_responsable": "No utilizar este modelo como autorizador automatico de acceso vehicular sin validacion adicional."
+}
