@@ -13,3 +13,7 @@ Los cuatro criterios valen 25 puntos cada uno. Esta matriz documenta **cobertura
 
 ## Notebook académico
 Se incorporó el [notebook sanitizado](../fuentes/Actividad5_notebook_historico_sanitizado.ipynb), con 31 celdas de código y documentación, sin salidas de ejecución. Los resultados observados constan por separado en los archivos agregados de `evidencias/`. Aún faltan evidencias visuales originales de MLflow y prueba integral de reproducción.
+
+
+## Evidencias visuales originales incorporadas
+Las [matrices de confusión LinearSVC](../evidencias/matriz_confusion_linearsvc.png) y [Random Forest](../evidencias/matriz_confusion_randomforest.png), junto con sus [reportes por clase](../evidencias/README.md), están publicadas. Siguen pendientes las capturas auténticas del panel MLflow y la ejecución independiente completa sobre UC3M-LP. IA responsable: el desempeño por carácter no implica un control de acceso seguro.
