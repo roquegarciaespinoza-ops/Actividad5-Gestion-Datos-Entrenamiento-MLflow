@@ -1,0 +1,12 @@
+{
+  "dataset_version": "v1.0.0",
+  "muestras_test": 2566,
+  "ambos_correctos": 2234,
+  "solo_linearsvc_correcto": 129,
+  "solo_randomforest_correcto": 72,
+  "ambos_incorrectos": 131,
+  "p_valor_mcnemar_exacto": 7.051394532266084e-05,
+  "diferencia_accuracy_pp": 2.221356196414659,
+  "diferencia_f1_macro_pp": 3.265389065341895,
+  "limitacion": "La prueba de McNemar supone observaciones independientes. Varios caracteres pueden pertenecer a la misma matricula; por ello, el valor p es exploratorio y no constituye inferencia definitiva a nivel de vehiculo."
+}
