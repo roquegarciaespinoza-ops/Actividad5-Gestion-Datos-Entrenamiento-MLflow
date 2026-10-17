@@ -36,3 +36,6 @@ Documentación de los resultados reales y riesgos disponible. **Pendiente:** pub
 
 ## IA responsable
 Se limita el uso a investigación, se preservan originales, se documentan licencias, representatividad, filtración potencial, privacidad y revisión humana. No publicar identificadores de matrícula ni modelos serializados de origen desconocido.
+
+## Notebook
+[Consultar el notebook sanitizado de Colab](fuentes/Actividad5_notebook_historico_sanitizado.ipynb). Consta de 40 celdas y no contiene salidas de ejecución; los CSV publicados documentan los resultados históricos. **IA responsable:** las salidas y matrículas identificables no se difunden.
