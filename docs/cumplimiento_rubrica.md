@@ -17,3 +17,7 @@ Se incorporó el [notebook sanitizado](../fuentes/Actividad5_notebook_historico_
 
 ## Evidencias visuales originales incorporadas
 Las [matrices de confusión LinearSVC](../evidencias/matriz_confusion_linearsvc.png) y [Random Forest](../evidencias/matriz_confusion_randomforest.png), junto con sus [reportes por clase](../evidencias/README.md), están publicadas. Siguen pendientes las capturas auténticas del panel MLflow y la ejecución independiente completa sobre UC3M-LP. IA responsable: el desempeño por carácter no implica un control de acceso seguro.
+
+
+### Sustituto documental para evidencia visual del panel
+Se incorporó una [auditoría directa y verificable de MLflow SQLite](../evidencias/mlflow/auditoria_sqlite_verificada.md), en vez de simular una captura del panel. **Si el profesor exige literalmente capturas del panel, ese requisito sigue pendiente;** la base original y los datos publicados acreditan parámetros, métricas y seguimiento real. La reproducción integral con UC3M-LP continúa pendiente.
